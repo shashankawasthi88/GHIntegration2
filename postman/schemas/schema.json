@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "version": "1",
-    "title": "API3",
+    "title": "Deployment Test",
     "license": {
       "name": "MIT"
     }
